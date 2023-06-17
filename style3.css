@@ -1,0 +1,38 @@
+
+input{
+    border: 3px solid rgb(65, 136, 171);
+    margin-top: 20px;
+  border-radius:4px;
+  padding: 20px 20px;
+  background-color: aquamarine;
+}
+
+form{
+    margin-left:25%;
+    margin-top:14%;
+}
+
+h1{
+  text-align:center;
+}
+
+
+.box {
+  width: 450px;
+  height: 600px;
+  border: 1px solid black;
+  background-color: #c7e1e0;
+  margin-left:35%;
+}
+
+.dob{
+  width:220px;
+}
+
+.update{
+  width:220px;
+}
+
+.update:hover{
+  background-color:green;
+}
